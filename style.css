@@ -95,6 +95,7 @@ main {
     overflow-y: auto;
 }
 
+
 /*-------------------
     /MAIN
 -------------------*/
@@ -140,6 +141,10 @@ footer small {
     text-decoration: none;
     color: red;
     cursor: pointer;
+}
+
+.fa-share-from-square {
+    color: greenyellow;
 }
 
 /*-------------------
