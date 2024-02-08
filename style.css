@@ -87,10 +87,13 @@ li {
 
 /*-------------------
     MAIN
--------------------*/
+-------------------*/               
 
 main {
     background-color: black;
+}
+
+.container-webcam {
     height: calc(100vh - 120px);
     overflow-y: auto;
 }
